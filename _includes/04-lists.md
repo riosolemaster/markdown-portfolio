@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+1. My favorite social networks
+   - YouTube
+   - FaceBook
+   - Linkedin
+   
+2. My favorite food
+   - Pizza
+   - Pasta
+   - Beef steak
